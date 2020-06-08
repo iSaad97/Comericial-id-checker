@@ -1,6 +1,6 @@
 # Commercial ID Checker
 
-Get an organization in Saudi Arabia information by entering their Commercial id
+Get an organization information in Saudi Arabia by entering their Commercial id
 
 ## Note:
 You have to generate your own API key in order to get the information from the server
