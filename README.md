@@ -1,4 +1,4 @@
-# Comericial ID Checker
+# Commercial ID Checker
 
 Get an organization in Saudi Arabia information by entering their Commercial id
 
