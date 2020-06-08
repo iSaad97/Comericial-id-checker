@@ -1,0 +1,96 @@
+/** @format */
+body {
+	text-align: right;
+	font-family: "Amiri", serif;
+}
+.mycontainer {
+	margin-top: 10vh;
+	box-shadow: 2px 2px 10px;
+	border-radius: 5px;
+	padding: 40px;
+}
+
+::placeholder,
+input {
+	text-align: right;
+}
+
+.row {
+	margin-bottom: 5vh;
+}
+input#CommercialNumInput {
+	margin-left: 2vh;
+	/* margin-bottom: 5vh; */
+}
+
+@media screen and (max-width: 576px) {
+	input#CommercialNumInput {
+		margin-bottom: 2vh;
+	}
+}
+
+.h1 {
+	font-weight: 700;
+	margin-top: 10vh;
+	margin-bottom: 10vh;
+	text-align: center;
+}
+
+footer {
+	background: #343a40;
+	color: #aaa;
+	padding-top: 10px;
+	text-align: left;
+	height: 100%;
+}
+
+footer a {
+	color: #aaa;
+}
+
+footer a:hover {
+	color: #fff;
+}
+
+footer h3 {
+	color: #0894d1;
+	letter-spacing: 1px;
+	margin: 30px 0 20px;
+}
+
+footer .socila-list {
+	overflow: hidden;
+	margin: 20px 0 10px;
+}
+
+footer .socila-list li {
+	float: left;
+	margin-right: 10px;
+	opacity: 0.7;
+	overflow: hidden;
+	transition: all 0.3s ease-in-out;
+}
+
+footer .socila-list li:hover {
+	opacity: 1;
+}
+footer .mywork img {
+	opacity: 0.7;
+}
+footer .mywork img:hover {
+	opacity: 1;
+}
+
+footer .img-thumbnail {
+	background: transparent;
+	border: 1px solid transparent;
+	margin-bottom: 5px;
+	border-radius: 5px;
+	width: 300px;
+}
+
+@media screen and (max-width: 576px) {
+	h3#space-break {
+		display: none;
+	}
+}
